@@ -42,7 +42,8 @@ sudo apt install python-pytools
 5.sudo npm install -g less less-plugin-clean-css
 
 
-sudo touch odoo10.conf
+sudo touch odoo12.conf
+sudo chmod -R 777 odoo12.conf
 
 
 
