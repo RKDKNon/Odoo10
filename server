@@ -3,6 +3,9 @@ https://github.com/jneubaum/odoo-open-source-installation-script
 scp C:\Users\RKDK_Non\Downloads\odoo-install.sh root@188.166.240.219:~/  ---นำเข้า
 scp C:\Users\RKDK_Non\Downloads\vsftpd.conf root@188.166.240.219:~/ 
 scp E:\workspace root@188.166.240.219:~/
+unrar x workspace.rar 
+
+
 ssh root@188.166.240.219
 RKDK1261NON
 128.199.190.247
