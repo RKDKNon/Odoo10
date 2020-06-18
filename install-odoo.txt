@@ -20,7 +20,7 @@ sudo chmod -R 777 [ตามด้วยชื่อไฟล์ที่จะ�
 การติดตั้ง posgrast เพื่อการเชื่อมต่อกับ docker
 sudo docker run -d -e POSTGRES_USER=odoo -e POSTGRES_PASSWORD=odoo -e POSTGRES_DB=postgres -p 5432:5432 --name db(nameeeee) postgres:9.6
 
-sudo docker run -d -e POSTGRES_USER=odoo -e POSTGRES_PASSWORD=odoo -e POSTGRES_DB=postgres -p 5432:5432 --name odoo postgres:10
+sudo docker run -d -e POSTGRES_USER=odoo -e POSTGRES_PASSWORD=odoo -e POSTGRES_DB=postgres -p 5432:5432 --name odoo postgres:10.0
 
 
 ทำการเข้าเว็ป https://www.getopenerp.com/install-odoo-10-on-ubuntu-16-04/?fbclid=IwAR3qE2Awu8N_a7-_tJokX7uD1gk8ZbUvMaGuodukgArKyf2eZleZmnaHYkk
