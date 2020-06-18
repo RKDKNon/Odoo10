@@ -12,7 +12,7 @@ sudo systemctl start docker
 sudo systemctl enable docker
 docker --version
   
-sudo docker start db_9
+sudo docker start odoo
 sudo docker ps 
 sudo docker ps -a 
 sudo chmod -R 777 [ตามด้วยชื่อไฟล์ที่จะปลด]
