@@ -50,12 +50,13 @@ sudo touch odoo10.conf
 
 
 
+workspace.zip
+unzip workspace.zip
 
 
 
 
-
-
+mv -i  "workspace.txt" " workspace"
 
 
 pip install pyPdf
