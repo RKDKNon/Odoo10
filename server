@@ -1,11 +1,11 @@
 https://github.com/jneubaum/odoo-open-source-installation-script
 
-scp C:\Users\RKDK_Non\Downloads\odoo-install.sh root@178.128.211.40:~/  ---นำเข้า
-scp C:\Users\RKDK_Non\Downloads\vsftpd.conf root@178.128.211.40:~/ 
-scp E:\workspace root@178.128.211.40:~/
-ssh root@178.128.211.40
+scp C:\Users\RKDK_Non\Downloads\odoo-install.sh root@128.199.190.247:~/  ---นำเข้า
+scp C:\Users\RKDK_Non\Downloads\vsftpd.conf root@128.199.190.247:~/ 
+scp E:\workspace root@128.199.190.247:~/
+ssh root@128.199.190.247
 RKDK1261NON
-68.183.188.3
+128.199.190.247
 YES
 chmod +x odoo-install.sh ---แครกกกก
 
