@@ -40,7 +40,7 @@ service vsftpd start
 
 /home/non/workspace/odoo12/odoo/odoo-bin
 /home/non/workspace/config/odoo12.conf
-sudo workspace/odoo12/odoo/odoo-bin -c workspace/config/odoo12.conf
+sudo odoo12/odoo/odoo-bin -c config/odoo12.conf
 
 
 pip install -r requirements.txt
