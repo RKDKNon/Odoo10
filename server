@@ -42,6 +42,6 @@ service vsftpd start
 /home/non/workspace/config/odoo12.conf
 sudo odoo12/odoo/odoo-bin -c config/odoo12.conf
 
-
+mv "workspace.txt"new"workspace"
 pip install -r requirements.txt
 
