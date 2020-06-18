@@ -11,6 +11,14 @@ sudo apt install docker.io
 sudo systemctl start docker
 sudo systemctl enable docker
 docker --version
+
+
+sudo apt-get remove docker* 
+sudo apt-get autoremove
+sudo apt-get autoclean
+sudo rm -rf /var/www/discourse -R
+
+
   
 sudo docker start odoo
 sudo docker ps 
