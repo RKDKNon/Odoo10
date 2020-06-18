@@ -53,6 +53,7 @@ pip3 install xlrd
 pip3 install polib
 pip3 install libsass==0.12.3
 pip3 install werkzeug==1.0.0
+pip3 install Werkzeug==0.11.15
 
 
 echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstalled Python Modules\nInstalled Python Modules\nInstalled Python Modules\n\n\n\n\n\n\n\n\n\n\n\n"
