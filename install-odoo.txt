@@ -3,7 +3,7 @@ sudo apt install git
 
 
 sudo git clone -b (version เช่น 9.0) {ตามด้วยลิ้งค์} odoo(เท่าไหร่ เช่น odoo9.0) การติดตั้ง odoo 
-sudo git clone -b 9.0 https://github.com/odoo/odoo.git
+sudo git clone -b 12.0 https://github.com/odoo/odoo.git
 
 การติดตั้ง docker
 sudo apt-get update
